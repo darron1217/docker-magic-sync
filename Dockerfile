@@ -1,4 +1,4 @@
-FROM alpine
+FROM alpine:3.10
 MAINTAINER Mickaël Perrin <dev@mickaelperrin.fr>
 
 # Add edge repos
